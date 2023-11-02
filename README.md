@@ -23,7 +23,7 @@
 - jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari bilangan1 dan bilangan3. Jika benar, maka bilangan2 adalah yang terbesar.
   Jika kedua kondisi sebelumnya salah, maka bilangan3 adalah yang terbesar.Hasil bilangan terbesar ditampilkan menggunakan pernyataan print.
 ## output
-![Screenshot (39)](https://github.com/arjuna46/labspy02/assets/147571007/0833f089-29b1-4e55-9b94-11ed4bcb53d4)
+![Screenshot (38)](https://github.com/arjuna46/labspy02/assets/147571007/358c8217-a040-424c-bdb5-e523aeed5491)
 
 Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bilangan yang dimasukkan oleh pengguna dan mencetaknya ke layar.
 ## labspy03
