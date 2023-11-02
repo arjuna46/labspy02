@@ -8,7 +8,7 @@
  - git add dapat digunakan secara spesifik untuk file tertentu atau direktori, memberikan Anda fleksibilitas untuk memilih perubahan mana yang akan dimasukkan dalam staging 
   area.
  - git commit -m “hi” Untuk menyimpan perubahan yang ada kedalam database repository local
- - git remote add origin https://github.com/Maullynn/praktikum3.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
+ - git remote add origin https://github.com/arjuna46/labspy02.git Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada 
    local repository, sehingga dapat diakses oleh banyak user.
  - git push -u origin master/main Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
  - git clone [url] Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working 
@@ -23,7 +23,8 @@
 - jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari bilangan1 dan bilangan3. Jika benar, maka bilangan2 adalah yang terbesar.
   Jika kedua kondisi sebelumnya salah, maka bilangan3 adalah yang terbesar.Hasil bilangan terbesar ditampilkan menggunakan pernyataan print.
 ## output
-![Screenshot (213)](https://github.com/Maullynn/labspy02/assets/144296695/965ba697-7f4a-41e7-abf4-381da0822bd8)
+![Screenshot (213)]![Screenshot (39)](https://github.com/arjuna46/labspy02/assets/147571007/3d6cb79d-f7ad-4f8c-8d56-efdc50a866ab)
+
 Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bilangan yang dimasukkan oleh pengguna dan mencetaknya ke layar.
 ## labspy03
 - LATIHAN1 
@@ -37,3 +38,4 @@ Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bila
 - if random_number < 0.5:: Program memeriksa apakah random_number kurang dari 0.5. Jika benar, maka bilangan tersebut akan dicetak.
 - print(random_number): Jika bilangan acak memenuhi kondisi sebelumnya (kurang dari 0.5), maka bilangan tersebut akan dicetak ke layar.
 ## OUTPUT
+![Screenshot (46)](https://github.com/arjuna46/labspy02/assets/147571007/a2cb0310-42b1-474a-b4d7-c3fec5415098)
